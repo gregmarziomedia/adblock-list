@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: AdBlock Plus Filter List
+! Title: GMM
 ! Expires: 7 days (update frequency)
-! Version: 1
+! Version: 2
 ! Last modified: 16 October 2025
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
