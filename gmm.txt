@@ -57,11 +57,17 @@
 @@||1password.com^$document
 @@||azure.com^$document
 @@||github.com^$document
+@@||githubusercontent.com^$document
 @@||google.com^$document
 @@||hikvision.com^$document
 @@||hik-connect.com^$document
 @@||hik-partner.com^$document
+@@||lastpass.com^$document
+@@||mailchimp.com^$document
 @@||microsoft.com^$document
 @@||office.com^$document
 @@||outlook.com^$document
 @@||outsystemsenterprise.com^$document
+@@||telegram.org^$document
+@@||terraform.io^$document
+@@||whatsapp.com^$document
