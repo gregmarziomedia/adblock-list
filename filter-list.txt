@@ -1,0 +1,51 @@
+[Adblock Plus 2.0]
+! Title: AdBlock Plus Filter List
+! Expires: 7 days (update frequency)
+! Version: 1
+! Last modified: 16 October 2025
+! Homepage: https://github.com/gregmarziomedia/adblock-list/
+! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
+! License: https://mit-license.org/
+! Description: This filter allows ads
+!-------------------------------------------------------------------------------
+
+! Government -----------------------------------------------
+@@||.*\.gov\.za^$document
+
+! Payment Gateways -----------------------------------------------
+@@||absa.co.za^$document
+@@||capitecbank.co.za^$document
+@@||fnb.co.za^$document
+@@||investec.com^$document
+@@||nedbank.co.za^$document
+@@||payfast.io^$document
+@@||snapscan.co.za^$document
+@@||standardbank.co.za^$document
+@@||tymebank.co.za^$document
+
+! Organisations -----------------------------------------------
+@@||dpvwatch.co.za^$document
+@@||entelect.co.za^$document
+@@||furgetmeknot.org^$document
+@@||iosecurity.co.za^$document
+@@||ohwatch.co.za^$document
+@@||tbkwatch.com^$document
+@@||verifize.co.za^$document
+@@||vss.org.za^$document
+@@||watchcom.org.za^$document
+@@||welovelowcarb.co.za^$document
+
+! Educational Institutions -----------------------------------------------
+@@||unisa.ac.za^$document
+@@||uxdesigninstitute.com^$document
+
+! Tech Companies -----------------------------------------------
+@@||1password.com^$document
+@@||azure.com^$document
+@@||github.com^$document
+@@||google.com^$document
+@@||hikvision.com^$document
+@@||microsoft.com^$document
+@@||office.com^$document
+@@||outlook.com^$document
+@@||outsystemsenterprise.com^$document
