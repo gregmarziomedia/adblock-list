@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: GMM
 ! Expires: 7 days (update frequency)
-! Version: 2
-! Last modified: 16 October 2025
+! Version: 3
+! Last modified: 17 October 2025
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
 ! License: https://mit-license.org/
@@ -10,7 +10,8 @@
 !-------------------------------------------------------------------------------
 
 ! Government -----------------------------------------------
-@@||.*\.gov\.za^$document
+@@||gov.za^$document
+@@||sanparks.org^$document
 
 ! Payment Gateways -----------------------------------------------
 @@||absa.co.za^$document
@@ -24,18 +25,31 @@
 @@||tymebank.co.za^$document
 
 ! Organisations -----------------------------------------------
+@@||beesweethoney.co.za^$document
+@@||blackarts.co.za^$document
 @@||dpvwatch.co.za^$document
 @@||entelect.co.za^$document
+@@||festx.com^$document
+@@||festx.co.za^$document
 @@||furgetmeknot.org^$document
+@@||furgetmeknot.co.za^$document
+@@||furgetmeknot.org.za^$document
 @@||iosecurity.co.za^$document
 @@||ohwatch.co.za^$document
 @@||tbkwatch.com^$document
+@@||tbkwatch.co.za^$document
+@@||tbkwatch.org.za^$document
 @@||verifize.co.za^$document
 @@||vss.org.za^$document
+@@||watchcom.org^$document
 @@||watchcom.org.za^$document
+@@||watchcom.co.za^$document
 @@||welovelowcarb.co.za^$document
 
 ! Educational Institutions -----------------------------------------------
+@@||aie.ac^$document
+@@||getsmarter.com^$document
+@@||uct.ac.za^$document
 @@||unisa.ac.za^$document
 @@||uxdesigninstitute.com^$document
 
@@ -45,6 +59,8 @@
 @@||github.com^$document
 @@||google.com^$document
 @@||hikvision.com^$document
+@@||hik-connect.com^$document
+@@||hik-partner.com^$document
 @@||microsoft.com^$document
 @@||office.com^$document
 @@||outlook.com^$document

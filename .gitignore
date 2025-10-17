@@ -1,0 +1,13 @@
+# General
+*.log
+
+# IDE
+.idea
+.vs
+.vscode
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
