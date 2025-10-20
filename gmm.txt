@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: GMM
-! Expires: 7 days (update frequency)
-! Version: 3
-! Last modified: 17 October 2025
+! Expires: 1 day (update frequency)
+! Version: 4
+! Last modified: 20 October 2025
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
 ! License: https://mit-license.org/
@@ -55,7 +55,9 @@
 
 ! Tech Companies -----------------------------------------------
 @@||1password.com^$document
+@@||atlassian.net^$document
 @@||azure.com^$document
+@@||dahuasecurity.com^$document
 @@||github.com^$document
 @@||githubusercontent.com^$document
 @@||google.com^$document
