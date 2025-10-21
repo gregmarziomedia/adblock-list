@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: GMM
-! Expires: 1 day (update frequency)
-! Version: 5
+! Expires: 6 hours (update frequency)
+! Version: 6
 ! Last modified: 21 October 2025
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
@@ -78,4 +78,5 @@
 @@||outlook.com^$document
 @@||outsystems.com^$document
 @@||outsystemsenterprise.com^$document
+@@||sharepoint.com^$document
 @@||terraform.io^$document
