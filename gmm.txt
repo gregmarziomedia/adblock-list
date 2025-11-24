@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: GMM
 ! Expires: 6 hours (update frequency)
-! Version: 7
-! Last modified: 18 November 2025
+! Version: 8
+! Last modified: 24 November 2025
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
 ! License: https://mit-license.org/
@@ -43,6 +43,16 @@
 @@||gov.za^$document
 @@||sanparks.org^$document
 
+! Hosting -----------------------------------------------
+@@||domains.co.za^$document
+@@||konsoleh.co.za^$document
+@@||resellerpanel.co.za^$document
+@@||rocketnet.co.za^$document
+@@||vuma.co.za^$document
+@@||webafrica.co.za^$document
+@@||xneelo.co.za^$document
+@@||xneelo.com^$document
+
 ! Security -----------------------------------------------
 @@||dahuasecurity.com^$document
 @@||deepalert.ai^$document
@@ -70,6 +80,7 @@
 @@||atlassian.net^$document
 @@||azure.com^$document
 @@||bitbucket.org^$document
+@@||cloudflare.com^$document
 @@||github.com^$document
 @@||githubusercontent.com^$document
 @@||google.com^$document
