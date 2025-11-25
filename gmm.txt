@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: GMM
-! Expires: 6 hours (update frequency)
-! Version: 8
-! Last modified: 24 November 2025
+! Expires: 1 hour (update frequency)
+! Version: 9
+! Last modified: 25 November 2025
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
 ! License: https://mit-license.org/
@@ -43,7 +43,16 @@
 @@||gov.za^$document
 @@||sanparks.org^$document
 
+! Hardware -----------------------------------------------
+@@||dahuasecurity.com^$document
+@@||deepalert.ai^$document
+@@||hikvision.com^$document
+@@||hik-connect.com^$document
+@@||hik-partner.com^$document
+@@||mikrotik.com^$document
+
 ! Hosting -----------------------------------------------
+@@||1grid.co.za^$document
 @@||domains.co.za^$document
 @@||konsoleh.co.za^$document
 @@||resellerpanel.co.za^$document
@@ -53,14 +62,9 @@
 @@||xneelo.co.za^$document
 @@||xneelo.com^$document
 
-! Security -----------------------------------------------
-@@||dahuasecurity.com^$document
-@@||deepalert.ai^$document
-@@||hikvision.com^$document
-@@||hik-connect.com^$document
-@@||hik-partner.com^$document
-
 ! IM -----------------------------------------------
+@@||discord.com^$document
+@@||slack.com^$document
 @@||telegram.org^$document
 @@||whatsapp.com^$document
 
@@ -71,11 +75,14 @@
 @@||investec.com^$document
 @@||nedbank.co.za^$document
 @@||payfast.io^$document
+@@||paygate.co.za^$document
 @@||snapscan.co.za^$document
 @@||standardbank.co.za^$document
 @@||tymebank.co.za^$document
+@@||yoco.com^$document
+@@||zapper.com^$document
 
-! Tech Companies -----------------------------------------------
+! Tech -----------------------------------------------
 @@||1password.com^$document
 @@||atlassian.net^$document
 @@||azure.com^$document
