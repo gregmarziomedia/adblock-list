@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: GMM
 ! Expires: 1 hour (update frequency)
-! Version: 11
-! Last modified: 5 February 2026
+! Version: 12
+! Last modified: 24 February 2026
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
 ! License: https://mit-license.org/
@@ -35,6 +35,7 @@
 ! Design -----------------------------------------------
 @@||adobe.com^$document
 @@||figma.com^$document
+@@||lovable.app^$document
 
 ! Educational Institutions -----------------------------------------------
 @@||aie.ac^$document
