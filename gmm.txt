@@ -1,13 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: GMM
 ! Expires: 1 hour (update frequency)
-! Version: 12
-! Last modified: 24 February 2026
+! Version: 13
+! Last modified: 16 April 2026
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
 ! License: https://mit-license.org/
 ! Description: This filter allows ads
 !-------------------------------------------------------------------------------
+
+! Businesses -----------------------------------------------
+@@||entelect.co.za^$document
+@@||entelectprojects.co.za^$document
 
 ! Clients -----------------------------------------------
 @@||beesweethoney.co.za^$document
