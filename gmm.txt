@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: GMM
 ! Expires: 1 hour (update frequency)
-! Version: 19
-! Last modified: 1 July 2026
+! Version: 20
+! Last modified: 6 July 2026
 ! Homepage: https://github.com/gregmarziomedia/adblock-list/
 ! Contribute: https://github.com/gregmarziomedia/adblock-list/issues
 ! License: https://mit-license.org/
@@ -49,6 +49,22 @@
 @@||watchcom.org^$document
 @@||welovelowcarb.co.za^$document
 
+! Development -----------------------------------------------
+@@||elegantthemes.com^$document
+@@||github.com^$document
+@@||githubusercontent.com^$document
+@@||gitlab.com^$document
+@@||java.com^$document
+@@||openjdk.org^$document
+@@||oracle.com^$document
+@@||outsystems.com^$document
+@@||outsystemsenterprise.com^$document
+@@||react.dev^$document
+@@||reactnative.dev^$document
+@@||spring.io^$document
+@@||terraform.io^$document
+@@||typescriptlang.org^$document
+
 ! Educational Institutions -----------------------------------------------
 @@||ac.za^$document
 @@||aie.ac^$document
@@ -67,6 +83,7 @@
 @@||apple.com^$document
 @@||asus.com^$document
 @@||dahuasecurity.com^$document
+@@||deepalert.ai^$document
 @@||dell.com^$document
 @@||ezviz.com^$document
 @@||gigabyte.com^$document
@@ -120,12 +137,7 @@
 @@||bitbucket.org^$document
 @@||cloud.microsoft^$document
 @@||cursor.sh^$document
-@@||deepalert.ai^$document
-@@||elegantthemes.com^$document
 @@||figma.com^$document
-@@||github.com^$document
-@@||githubusercontent.com^$document
-@@||gitlab.com^$document
 @@||google.com^$document
 @@||lastpass.com^$document
 @@||lovable.app^$document
@@ -134,7 +146,4 @@
 @@||miro.com^$document
 @@||office.com^$document
 @@||outlook.com^$document
-@@||outsystems.com^$document
-@@||outsystemsenterprise.com^$document
 @@||sharepoint.com^$document
-@@||terraform.io^$document
